@@ -32,7 +32,7 @@ You can use our interpreter as either a stack (LIFO) or a queue. (FIFO). Scripts
 
 ## Authors :copyright:
 
-:zap: **Bernice Akua Cobbinah** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaliceBernice)</br>
+:zap: **Abel Udoh** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abel-udoh)</br>
 :zap: **Hamza Abdullahi** - [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzayawa)
 
 LICENSE :lock:
