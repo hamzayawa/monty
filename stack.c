@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <stdio.h>
 #include <string.h>
 
 void free_stack(stack_t **stack);
