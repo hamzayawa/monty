@@ -12,6 +12,7 @@ int run_monty(FILE *script_fd);
 /**
  * free_tokens - Frees global op_toks array of strings.
  */
+
 void free_tokens(void)
 {
 	size_t i = 0;
@@ -30,6 +31,7 @@ void free_tokens(void)
  *
  * Return: Length of current op_toks (as int).
  */
+
 unsigned int token_arr_len(void)
 {
 	unsigned int toks_len = 0;
