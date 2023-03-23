@@ -1,6 +1,7 @@
 #ifndef __MONTY_H__
 #define __MONTY_H__
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -20,6 +21,7 @@ extern char **op_toks;
  *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
+ *
  */
 typedef struct stack_s
 {
