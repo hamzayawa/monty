@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <studio.h>
 
 void monty_nop(stack_t **stack, unsigned int line_number);
 void monty_pchar(stack_t **stack, unsigned int line_number);
