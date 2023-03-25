@@ -1,5 +1,5 @@
 #include "monty.h"
-#include <studio.h>
+#include <stdio.h>
 
 /**
  * set_op_tok_error - Sets last element of op_toks to be an error code.
