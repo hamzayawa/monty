@@ -1,5 +1,5 @@
 #include "monty.h"
-#include <studio.h>
+#include <stdio.h>
 
 int short_stack_error(unsigned int line_number, char *op);
 int div_error(unsigned int line_number);
