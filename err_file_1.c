@@ -1,5 +1,5 @@
 #include "monty.h"
-#include <studio.h>
+#include <stdio.h>
 
 int malloc_error(void);
 int usage_error(void);
